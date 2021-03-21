@@ -1,0 +1,11 @@
+-api_pck
+	-__init__.py
+	-youtubeapi.py
+	-nlpprocess.py
+-settings.cfg
+-sql_queries.py
+-create_db.py
+-main_frame.py
+-gather_statistcs.py
+-Youtube_DataAnalysis.ipynb
+-requirements.txt

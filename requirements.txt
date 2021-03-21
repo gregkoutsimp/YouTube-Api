@@ -1,0 +1,13 @@
+pandas
+numpy 
+matplotlib
+seaborn
+configparser
+google-api-python-client
+isodate
+youtube_transcript_api
+apsscheduler
+psycopg2
+textblob
+en_core_web_sm
+nltk
